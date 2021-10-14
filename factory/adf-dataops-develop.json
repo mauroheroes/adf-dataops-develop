@@ -1,0 +1,9 @@
+{
+	"name": "adf-dataops-develop",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7a48f349-5fca-42b3-808e-f4984e257aa1",
+		"tenantId": "9c2ff609-8423-44d5-81d9-96081377a6ef"
+	}
+}

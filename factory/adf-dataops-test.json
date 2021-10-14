@@ -1,0 +1,9 @@
+{
+	"name": "adf-dataops-test",
+	"location": "East US",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "aeba5d81-a7c1-4e32-a6d4-3bcfeadfcdf9",
+		"tenantId": "9c2ff609-8423-44d5-81d9-96081377a6ef"
+	}
+}

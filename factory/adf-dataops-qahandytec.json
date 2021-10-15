@@ -1,0 +1,9 @@
+{
+	"name": "adf-dataops-qahandytec",
+	"location": "East US",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d28a1647-719b-4451-9b14-e2eb0e1ed605",
+		"tenantId": "9c2ff609-8423-44d5-81d9-96081377a6ef"
+	}
+}

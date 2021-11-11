@@ -1,0 +1,9 @@
+{
+	"name": "PruebaMLP",
+	"location": "East US",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "25291f59-8640-4e93-ae2d-7ce0ff354fb2",
+		"tenantId": "9c2ff609-8423-44d5-81d9-96081377a6ef"
+	}
+}
